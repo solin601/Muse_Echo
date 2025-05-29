@@ -7,7 +7,7 @@ project/
 
 #### 1. EEG 신호
 &ensp; EEG 신호의 전처리 및 시각화 결과입니다.
-&ensp; ![Image](https://github.com/user-attachments/assets/10564466-8eee-4828-9380-4ff52a84500f){: width="70%" height="70%"}
+&ensp; <img src="https://github.com/user-attachments/assets/10564466-8eee-4828-9380-4ff52a84500f" width="70%" height="70%" />
 
 
 #### 2. 텍스트 선택 데모 화면
